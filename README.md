@@ -147,6 +147,5 @@ console.log(
 ## And more... :)
 
 ### Contact
-* [Github](https://github.com/Dulysse)
-* [GitLab](https://gitlab.com/Dulysse1)
-* [Linkedin](https://www.linkedin.com/in/ulysse-dupont-994848197/)
+* [Github](https://github.com/ashavijit)
+* [GitLab](https://gitlab.com/rdx640)
