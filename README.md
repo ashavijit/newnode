@@ -1,4 +1,22 @@
+>npm i @avijitsen/nodet
+```
 
+### How to use ?
+
+```typescript
+  /**
+   * IMPORT AT THE TOP MODULE SCRIPT
+   * (index.js, index.ts ...)
+  **/
+
+  import '@avijitsen/nodet';
+  // OR //
+  require('@avijitsen/nodet');
+
+  /**
+   * Then... Enjoy !
+  **/
+```
 ```
 ### Examples
 
