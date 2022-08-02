@@ -1,6 +1,6 @@
->npm i @avijitsen/nodet
-```
 
+```
+>npm i @avijitsen/nodet
 ### How to use ?
 
 ```typescript
